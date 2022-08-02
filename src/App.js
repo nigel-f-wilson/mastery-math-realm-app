@@ -7,8 +7,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          This will be Mastery Math one day!!!
-          
+          This will be Mastery Math one day!!! <br />
+          YES YES YES
+
         </p>
         
       </header>
