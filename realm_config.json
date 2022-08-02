@@ -1,0 +1,8 @@
+{
+    "app_id": "mastery-math-realm-app-mpjif",
+    "config_version": 20210101,
+    "name": "mastery-math-realm-app",
+    "location": "US-VA",
+    "provider_region": "aws-us-east-1",
+    "deployment_model": "LOCAL"
+}
